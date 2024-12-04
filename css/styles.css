@@ -148,6 +148,11 @@ button {
 /* #endregion*/
 
 /* #region Team */
+
+.team {
+    background-color: #f4f4fd;
+}
+
 .team h2 {
     font-weight: 700;
     font-size: 36px;
@@ -174,8 +179,13 @@ button {
 
 /* #endregion*/
 
-/* #region Products */
-.products h2 {
+/* #region Portfolio */
+
+.portfolio {
+    background-color: #f4f4fd;
+}
+
+.portfolio h2 {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -183,7 +193,7 @@ button {
     color: #2e2f42;
 }
 
-.products-title h3 {
+.portfolio-title h3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -191,7 +201,7 @@ button {
     color: #2e2f42;
 }
 
-.products-title p {
+.portfolio-title p {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
