@@ -63,7 +63,9 @@ button {
     color: #404bbf;
 }
 
-.header-addres {}
+.header-addres {
+    font-style: normal;
+}
 
 .header-addres-list {}
 
@@ -77,7 +79,8 @@ button {
     color: #434455;
 }
 
-.header-addres-link:hover {
+.header-addres-link:hover,
+.header-addres-link:focus {
     color: #404bbf;
 }
 
