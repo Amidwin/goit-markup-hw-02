@@ -97,15 +97,15 @@ button {
 /* #endregion*/
 
 /* #region Services */
-.services h2 {
+.services-main {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
 
-.services h3 {
+.services-main-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -113,7 +113,7 @@ button {
     color: #2e2f42;
 }
 
-.services-title {
+.services-main-title-list {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -132,8 +132,10 @@ button {
 .team-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
     color: #2e2f42;
 }
 
@@ -161,15 +163,17 @@ button {
     background-color: #f4f4fd;
 }
 
-.portfolio h2 {
+.portfolio-main {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
     color: #2e2f42;
 }
 
-.portfolio-title h3 {
+.portfolio-main-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -177,7 +181,7 @@ button {
     color: #2e2f42;
 }
 
-.portfolio-title p {
+.portfolio-title-list {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
