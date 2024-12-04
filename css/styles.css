@@ -44,9 +44,7 @@ button {
 
 .nav-list {}
 
-.nav-item {}
-
-.nav-item-link {
+.nav-item {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -54,10 +52,13 @@ button {
     color: #2e2f42;
 }
 
-.nav-item-link:hover,
-.nav-item-link:focus {
+.nav-item:hover,
+.nav-item:focus {
     color: #404bbf;
 }
+
+.nav-item-link {}
+
 
 /* #endregion */
 
